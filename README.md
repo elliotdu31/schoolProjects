@@ -3,7 +3,7 @@
 
 Graphs and networks algorithms.
 Implemented in Java.
-Please, read report.pdf
+report.pdf is written in English and summarizes the whole project.
 
 
 
